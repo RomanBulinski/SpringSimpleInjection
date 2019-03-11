@@ -10,7 +10,6 @@ public class UserRepository implements IUsersRepository {
     }
 
     public void setLogger(Logger logger) {
-
         this.logger=logger;
     }
 }
